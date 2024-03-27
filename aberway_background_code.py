@@ -244,7 +244,7 @@ def update(NodePassIdList, screen, bg, lineList, nodeList, startPos, listOfNodes
             
             
         
-
+        print(totalDist)
     
     running = True
     finished = False # finished traversal
